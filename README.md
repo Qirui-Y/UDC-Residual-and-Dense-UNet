@@ -60,3 +60,14 @@ It is worth noting that when testing, you need to put the tested .mat file in â€
 - [logger.py] provides logging service during training and testing.
 - Support to use [tensorboard] to visualize and compare training loss, validation PSNR and etc. 
 - [progress_bar.py] provides a progress bar which can print the progress. 
+
+Authors: Qirui Yang, Yihao Liu, Jigang Tang, Tao Ku [paper]
+
+If you find our work is useful ,please kindly cite it.
+
+@InProceedings{yang2020residual,
+author = {Qirui Yang and Yihao Liu and Jigang Tang and Tao Ku},
+title = {Residual and Dense UNet for Under-display Camera Restoration},
+booktitle = {European Conference on Computer Vision Workshops},
+year = {2020},
+}
