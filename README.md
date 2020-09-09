@@ -48,7 +48,7 @@ Please first check the .yml file, the location of the data set meets the require
 - cd codes
 - python train.py -opt options/train/train_UDC.yml
 #### Test
-- Download link of trained model: https://pan.baidu.com/s/1KTpGej6Le6lILrZD3CLiIQ  (PW: 6ije) (TOLED) //C
+- Download link of trained model: https://pan.baidu.com/s/1KTpGej6Le6lILrZD3CLiIQ  (PW: 6ije) (TOLED) \\
   or Download link of trained model: https://pan.baidu.com/s/1wvYINJeWQaGWaTmwnW60JQ (PW: crfq) (POLED)
 - cd codes
 - python  prep_result.py 
