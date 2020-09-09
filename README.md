@@ -48,7 +48,8 @@ Please first check the .yml file, the location of the data set meets the require
 - cd codes
 - python train.py -opt options/train/train_UDC.yml
 #### Test
-- - Download link of trained model: https://pan.baidu.com/s/1KTpGej6Le6lILrZD3CLiIQ  (PW: 6ije)
+- Download link of trained model: https://pan.baidu.com/s/1KTpGej6Le6lILrZD3CLiIQ  (PW: 6ije) (TOLED)
+  or Download link of trained model: https://pan.baidu.com/s/1wvYINJeWQaGWaTmwnW60JQ (PW: crfq) (POLED)
 - cd codes
 - python  prep_result.py 
 It is worth noting that when testing, you need to put the tested .mat file in ‘codes/toled_test_display.mat’.
