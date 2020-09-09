@@ -65,9 +65,9 @@ Authors: Qirui Yang, Yihao Liu, Jigang Tang, Tao Ku [paper]
 
 If you find our work is useful ,please kindly cite it.
 
-@InProceedings{yang2020residual,
-author = {Qirui Yang and Yihao Liu and Jigang Tang and Tao Ku},
-title = {Residual and Dense UNet for Under-display Camera Restoration},
-booktitle = {European Conference on Computer Vision Workshops},
-year = {2020},
-}
+ @InProceedings{yang2020residual,
+ author = {Qirui Yang and Yihao Liu and Jigang Tang and Tao Ku},
+ title = {Residual and Dense UNet for Under-display Camera Restoration},
+ booktitle = {European Conference on Computer Vision Workshops},
+ year = {2020},
+ }
